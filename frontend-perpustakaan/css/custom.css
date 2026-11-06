@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.nav-link {
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #1e40af;
+}
